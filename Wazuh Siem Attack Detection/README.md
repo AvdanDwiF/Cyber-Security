@@ -1,7 +1,7 @@
 # 🛡️ Wazuh SIEM Attack Detection Lab
 ### Simulasi Attack & Defense Server — PSAS Kelompok 5
 
-**Defend Team** | Analisis Log & Keamanan Jaringan Server
+Analisis Log & Keamanan Jaringan Server
 
 ---
 
@@ -55,7 +55,7 @@ wazuh-siem-attack-detection-lab/
 
 ## 👥 Anggota Kelompok 5 
 
-| No | Nama Anggota[cite: 2] | NIS[cite: 2] |
+| No | Nama Anggota | NIS |
 |----|-----------------------|-----------------|
 | 1  | Arfian Hananta Yudo  | 541241415 |
 | 2  | Avdan Dwi Firlanda   | 541241424 |
